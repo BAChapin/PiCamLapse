@@ -1,0 +1,46 @@
+{
+    "pi_identifier": "PiZero-0001",
+    "base_path": "/home/pi",
+    "latitude": 41.1027,
+    "longitude": -85.1362,
+    "font_size": 80,
+    "font_path": "/home/pi/PiCamLapse/resources/sf-compact-medium.ttf",
+    "overwrite": true,
+    "sftp_settings": {
+        "enabled": true,
+        "host_address": "mieserver.ddns.net",
+        "username": "bachapin",
+        "password": "Psalms.23"
+    },
+    "dropbox": {
+        "enabled": false,
+        "access_token": "dMrqBt0TijsAAAAAAAAAAWYjUPV2t17PZ-5AzvhP3QCoKJyy2BsTuZDQYqk1BEGd"
+    },
+    "google_drive": {
+        "enabled": false,
+        "parent_id": "1fYiEdM5x6kyxFTsiZoLEzxdkVZqdVlgg",
+        "current_path": {
+            "year_id": "1oVEsA2_zJRYXJQzBtsIt-OIGl4Y2DbcA",
+            "year": "2021"
+        }
+    },
+    "owm": {
+        "api_key": "90ba539998385852d63d95e460f62462"
+    },
+    "twitter": {
+        "enabled": false,
+        "api_key": "jLhvm0JSenRgrn8rJeVdMRSs0",
+        "api_secret": "id8SmTl37ji0GwqsBMtwaoMPK4EMIsSAfvkv5QGHI65U7xZan6",
+        "access_token": "93712323-cD2GNWyniBsU0YtmJln8WMz7SAExDR1t2xh6SdFfR",
+        "access_token_secret": "kfD8PB37CRAdxsuoLa9iRidH4AFuMmolkOxsj2Hz1Hbry"
+    },
+    "report_email": {
+        "server": "smtp.gmail.com",
+        "port": 587,
+        "email": "bachapin.raspi@gmail.com",
+        "password": "Jugke8-jojrux-xewjez",
+        "recipients": [
+            "brett.chapin89@gmail.com"
+        ]
+    }
+}
