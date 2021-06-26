@@ -1,3 +1,4 @@
+__pychache__/
 .DS_Store
 client_secrets.json
 creds.json
