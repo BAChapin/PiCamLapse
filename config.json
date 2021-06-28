@@ -1,8 +1,8 @@
 {
     "pi_identifier": "PiZero-0001",
     "base_path": "/home/pi",
-    "latitude": 41.1027,
-    "longitude": -85.1362,
+    "latitude": 0,
+    "longitude": 0,
     "font_size": 80,
     "font_path": "/home/pi/PiCamLapse/resources/sf-compact-medium.ttf",
     "overwrite": true,
